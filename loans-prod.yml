@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to EazyBank Loans related webhook prod APIs"
+  message: "Welcome to EazyBank Loans related webhook production APIs"
   contactDetails:
     name: "Raine Aishwarya - Production Support"
     email: "aishwarya@example.com"
