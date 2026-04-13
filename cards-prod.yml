@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank Cards related webhook Prod APIs"
+  message: "Welcome to EazyBank Cards related webhook production APIs"
   contactDetails:
     name: "Raine Aishwarya - Production Support"
     email: "aishwarya@example.com"
