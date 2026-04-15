@@ -2,10 +2,10 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank Accounts related PROD APIs"
+  message: "Welcome to EazyBank Accounts related WebHooks PROD APIs"
   contactDetails:
     name: "Raine Aishwarya - Production Support"
-    email: "aishwarya@example.com"
+    email: "{cipher}4ede536ff98ce56fc8b2fca5e488e574e5fdfcd2ab561476400a0d9b9f77f87dafa6e8ed5f22c98fb8567a97b5bae1fa"
   onCallSupport:
     - (777) 123-4567
     - (777) 987-6543
